@@ -1,0 +1,15 @@
+.node {
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    border: 1px solid black;
+    padding: 0;
+}
+
+.fruit{
+    background-color: crimson;
+}
+
+.body {
+    background-color: cornflowerblue;
+}

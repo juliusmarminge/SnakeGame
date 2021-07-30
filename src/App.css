@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+body {
+  background-color: #282c34;
+}
+
+h1 {
+  color: lightcyan;
+  font-size: 80px;
+  line-height: 0px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
